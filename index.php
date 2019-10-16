@@ -10,7 +10,8 @@
   position: absolute;
   top: 50%;
   left: 60%;
-  transform: translate(-50%, -50%);
+  transform: translate(-40%, -50%);
+  width: 49%;
 }
 
 form.example input[type=text] {
@@ -48,7 +49,8 @@ form.example::after {
 			
 			 <div class="centered">
 			 <form class="example" action="/action_page.php">
-			  <input type="text" placeholder="Search.." name="search"><i id="fakebox-search"  class="fa fa-search text-primary"></i>
+			  <input type="text" placeholder="Enter Vehicle Number.." name="search">
+			  <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
 			</form>
 			  </div>
         </div>
