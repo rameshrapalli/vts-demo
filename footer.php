@@ -2,7 +2,7 @@
       <div class="container">
         <div class="row">
           <div class="col-12">
-            <p>Copyright © MyWebsite. All rights reserved.</p>
+            <p>Copyright © VTS. All rights reserved.</p>
           </div>
         </div>
       </div>
