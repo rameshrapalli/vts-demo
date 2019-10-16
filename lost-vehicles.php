@@ -4,8 +4,6 @@
 	<link rel="stylesheet" type="text/css" href="src/plugins/datatables/media/css/responsive.dataTables.css">
 </head>
 <?php include("header-1.php"); ?>
-
- 
   <div class="clearfix">&nbsp;</div>
   <div class="container">
 			<a href="add-lostvehicles.php"><button class="btn btn-outline-success my-2 my-sm-0" type="submit" style="float:right">Add <i class="fa fa-plus" aria-hidden="true"></i></button></a>

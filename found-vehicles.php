@@ -33,7 +33,7 @@
 									<td>Kukatpally</td>
 									 <td>
 									  <a href="#" title="Edit"><i class="fa fa-pencil btn btn-sm btn-success"></i></a>
-									  <a href="#"  title="Edit"><i class="fa fa-info-circle btn btn-sm btn-warning"></i></a>
+									  <a href="#" title="Edit"><i class="fa fa-info-circle btn btn-sm btn-warning"></i></a>
 									  <a href="#" title="Delete"><i class="fa fa-trash btn btn-sm btn-danger"></i></a>
 									</td>
 								</tr>
